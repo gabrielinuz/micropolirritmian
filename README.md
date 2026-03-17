@@ -4,11 +4,11 @@
 
 ---
 
-## 🚀 Características Principales
+## Características Principales
 Aplicación web para la generación y visualización de polirritmias musicales complejas. El sistema utiliza un motor de cálculo de alto rendimiento en C++ para procesar algoritmos de distribución de pulsos (Algoritmo de Bjorklund) y una interfaz interactiva en HTML, CSS y JavaScript Vanilla. La comunicación se realiza mediante una muy simplificada API REST, garantizando una separación estricta entre la lógica de negocio y la interfaz de usuario.
 
 
-## 🛠️ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 ### Backend
 * **Httplib:** Servidor robusto y escalable.
@@ -18,7 +18,7 @@ Aplicación web para la generación y visualización de polirritmias musicales c
 * **Vanilla JavaScript:** Lógica pura sin dependencias de frameworks pesados.
 * **Vanilla CSS:** Diseño con puro CSS sin frameworks.
 
-## 📂 Estructura del Proyecto
+## Estructura del Proyecto
 
 ```text
 ├── public/
