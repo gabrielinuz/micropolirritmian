@@ -1,3 +1,12 @@
+/**
+ * @file audio.js
+ * @author Gabriel Nicolás González Ferreira
+ * @brief motor de audio del frontend.
+ * @version 0.1
+ * @date 2026-03-15
+ * @license https://opensource.org/licenses/MIT
+ */
+
 const AudioEngine = {
     ctx: new (window.AudioContext || window.webkitAudioContext)(),
     onPulse: null,

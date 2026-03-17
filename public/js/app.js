@@ -1,3 +1,12 @@
+/**
+ * @file app.js
+ * @author Gabriel Nicolás González Ferreira
+ * @brief aplicación que consume la API del servidor de ritmos euclidianos.
+ * @version 0.1
+ * @date 2026-03-15
+ * @license https://opensource.org/licenses/MIT
+ */
+
 const inputBpm = document.getElementById('inputBpm');
 const valBpm = document.getElementById('valBpm');
 const vInputs = document.querySelectorAll('.v-input');

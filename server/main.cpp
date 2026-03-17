@@ -1,3 +1,12 @@
+/**
+ * @file main.cpp
+ * @author Gabriel Nicolás González Ferreira
+ * @brief Servidor principal para generar ritmos euclidianos
+ * @version 0.1
+ * @date 2026-03-15
+ * @license https://opensource.org/licenses/MIT
+ */
+ 
 #include "include/httplib.h"
 #include "include/json.hpp" // Librería para JSON
 #include <vector>

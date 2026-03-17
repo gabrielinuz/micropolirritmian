@@ -1,3 +1,12 @@
+/**
+ * @file visualizer.js
+ * @author Gabriel Nicolás González Ferreira
+ * @brief helper para representar visualmente los ritmos.
+ * @version 0.1
+ * @date 2026-03-15
+ * @license https://opensource.org/licenses/MIT
+ */
+
 const Visualizer = {
     canvas: document.getElementById('ritmoCanvas'),
     ctx: document.getElementById('ritmoCanvas').getContext('2d'),
