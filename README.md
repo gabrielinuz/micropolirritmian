@@ -32,5 +32,5 @@ Aplicación web para la generación y visualización de polirritmias musicales c
 │   ├── include/         # httplib.h y json.hpp, bibliotecas necesarias.
 │   ├── build.sh         # Script de compilación.
 │   ├── main.cpp         # lógica y cáclculo de servidor.
-│   ├── uploads/         # Almacenamiento físico de sonidos.
-│   └── utils/           # Helpers de sistema de archivos (fileHelper).
+│   ├── uploads/         # Almacenamiento físico de sonidos. (en construcción)
+│   └── utils/           # Helpers de sistema de archivos (fileHelper) (en construcción)
