@@ -7,6 +7,21 @@
 ## Características Principales
 Aplicación web para la generación y visualización de polirritmias musicales complejas. El sistema utiliza un motor de cálculo de alto rendimiento en C++ para procesar algoritmos de distribución de pulsos (Algoritmo de Bjorklund) y una interfaz interactiva en HTML, CSS y JavaScript Vanilla. La comunicación se realiza mediante una muy simplificada API REST, garantizando una separación estricta entre la lógica de negocio y la interfaz de usuario.
 
+## Instrucciones de compilación:
+1. Ejecutar el script build.sh o la línea de compilación directamente:
+```bash
+g++ main.cpp -o ../server.bin -lpthread
+```
+
+2. Luego ejecutar en una terminal el binario generado:
+```bash
+./server.bin
+```
+
+3. Abrir en un navegador web la url:
+```text
+http://localhost:8080/
+```
 
 ## Tecnologías Utilizadas
 
